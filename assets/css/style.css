@@ -1148,3 +1148,24 @@ section {
 #footer .footer-links a:hover {
   color: #3498db;
 }
+
+/*-- conteneur --*/
+table{
+  font-size: 0.8em;
+}
+td {
+  border: 0.5px solid black;
+  padding: 0.5em;
+}
+
+th{
+  background-color: #128be5;
+  padding: 0.7em;
+  color: white;
+  border: 0.5px solid black;
+}
+
+th, td{
+  padding: 0.7em;
+  text-align: center;
+}
